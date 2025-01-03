@@ -1,23 +1,23 @@
 {
-  "name": "@ant-design/tools",
-  "version": "18.0.2",
-  "description": "tools for ant design",
+  "name": "@gitee-design/tools",
+  "version": "18.0.2000",
+  "description": "tools for gitee design",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "http://github.com/knight174/giteed-tools",
+  "author": "contact@miaoosi.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:knight174/giteed-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "http://github.com/knight174/giteed-tools/issues"
   },
   "license": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js"
+    "giteed-tools": "./bin/giteed-tools.js"
   },
   "scripts": {
     "pub": "git push origin && npm publish --access public",
